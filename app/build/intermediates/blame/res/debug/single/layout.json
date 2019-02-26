@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_content.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_text_content.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemdelete.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\itemdelete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_upload.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_upload.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_horizontal.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_video_album.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_video_album.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_horizontal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_view_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\play_view_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshow.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detailshow.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataitem_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\dataitem_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f3.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f3.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_horizontal.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detail.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\main_download.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\officeitem_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\officeitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f3.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\f3.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_avatar.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\choose_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainfragmentpager.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\mainfragmentpager.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anniudianji_item.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\anniudianji_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f4.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f4.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail_gridviewitem.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detail_gridviewitem.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anniudianji_item.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\anniudianji_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\office_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataitem_list.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\dataitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_zhifa.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\office_zhifa.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_play.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\sliding_play.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_zhifa.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\office_zhifa.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\office_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_play.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\sliding_play.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_avatar.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\choose_avatar.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_delete.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_delete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command_send_message.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\command_send_message.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anniudianji_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\anniudianji_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_main.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\http_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_search.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_main.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\http_main.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail_gridviewitem.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detail_gridviewitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f1.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\f1.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainmap.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_mainmap.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshowimage.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detailshowimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_zhifa.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\office_zhifa.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_upload.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_upload.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_upload.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemdelete.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\itemdelete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\anniudianji_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\anniudianji_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_main.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\http_main.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainfragmentpager.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\mainfragmentpager.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshowimage.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detailshowimage.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\officeitem_list.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\officeitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f1.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f1.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f2.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\f2.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_content.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_text_content.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f1.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\f1.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_search.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail_gridviewitem.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detail_gridviewitem.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command_send_message.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\command_send_message.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_video_album.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_video_album.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_search.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command_send_message.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\command_send_message.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\main_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\crop_image.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\crop_image.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_delete.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\item_delete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f4.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f4.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_delete.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\item_delete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshow.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detailshow.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_list.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\down_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_horizontal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_photo.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\add_photo.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_photo.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\add_photo.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\down_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\main_download.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_avatar.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\choose_avatar.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_view_item.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\play_view_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f4.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\f4.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainmap.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_mainmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemdelete.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\itemdelete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_search.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_search.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_download.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\main_download.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataitem_list.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\dataitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f2.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f2.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_video_album.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_video_album.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshowimage.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detailshowimage.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_photo.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\add_photo.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_content.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_text_content.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\crop_image.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_content.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\activity_text_content.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_main.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\http_main.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dataitem_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\dataitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_info.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detail.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshow.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detailshow.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemdelete.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\itemdelete.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f1.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f1.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_avatar.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\choose_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detail.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshowimage.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detailshowimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_play.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\sliding_play.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_info.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detail.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\officeitem_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\officeitem_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f3.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f3.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_view_item.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\play_view_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\office_info.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\office_info.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detail_gridviewitem.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\data_info_detail_gridviewitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainmap.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_mainmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_delete.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\item_delete.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_view_item.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\play_view_item.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainfragmentpager.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\mainfragmentpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_list.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\down_list.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down_list.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\down_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_info_detailshow.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_info_detailshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\f2.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\f2.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_video_album.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_video_album.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainfragmentpager.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\mainfragmentpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_upload.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\data_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    }
+]

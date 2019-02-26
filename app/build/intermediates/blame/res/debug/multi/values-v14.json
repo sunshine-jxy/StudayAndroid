@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

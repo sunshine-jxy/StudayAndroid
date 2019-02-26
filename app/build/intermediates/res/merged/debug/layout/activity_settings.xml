@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:background="@color/gray_white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/top_bg" >
+
+        <ImageButton
+            android:id="@+id/btnback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="0dp"
+            android:background="@drawable/button_selector_back"
+            android:contentDescription="@null" />
+
+        <View
+            android:id="@+id/vline"
+            android:layout_width="1dip"
+            android:layout_height="fill_parent"
+            android:layout_toRightOf="@+id/btnback"
+            android:background="@drawable/line" />
+
+        <TextView
+            android:id="@+id/top_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:text="设置"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:focusable="true"
+                android:focusableInTouchMode="true" />
+
+            <RelativeLayout
+                android:id="@+id/layout01"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip" >
+
+                <EditText
+                    android:id="@+id/userPwd1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                     android:padding="7dp"
+                    android:gravity="center_vertical"
+                    android:hint="旧密码"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    android:paddingBottom="10dip"
+                    android:singleLine="true"
+                    android:background="@drawable/bg_edittext"  
+                    android:textColor="@color/gray"
+                    android:textSize="@dimen/edittextSize" />
+
+                <ImageButton
+                    android:id="@+id/clearPwd1"
+                    android:layout_width="25dip"
+                    android:layout_height="25dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_marginTop="10dip"
+                    android:background="@drawable/clear_icon"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout02"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="20dip" >
+
+                <EditText
+                    android:id="@+id/userPwd2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                     android:padding="7dp"
+                    android:gravity="center_vertical"
+                    android:hint="新密码"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    android:paddingBottom="10dip"
+                    android:singleLine="true"
+                    android:textColor="@color/gray"
+                    android:background="@drawable/bg_edittext"  
+                    android:textSize="@dimen/edittextSize" >
+                </EditText>
+
+                <ImageButton
+                    android:id="@+id/clearPwd2"
+                    android:layout_width="25dip"
+                    android:layout_height="25dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_marginTop="10dip"
+                    android:background="@drawable/clear_icon"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout03"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="20dip" >
+
+                <EditText
+                    android:id="@+id/userPwd3"
+                    android:layout_width="fill_parent"
+                     android:layout_height="45dp"
+                     android:padding="7dp"
+                    android:gravity="center_vertical"
+                    android:hint="确认密码"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    android:paddingBottom="10dip"
+                    android:singleLine="true"
+                    android:textColor="@color/gray"
+                    android:background="@drawable/bg_edittext"  
+                    android:textSize="@dimen/edittextSize" >
+                </EditText>
+
+                <ImageButton
+                    android:id="@+id/clearPwd3"
+                    android:layout_width="25dip"
+                    android:layout_height="25dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_marginTop="10dip"
+                    android:background="@drawable/clear_icon"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/btnLayout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/updatebtn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/button_selector_yellow"
+                    android:text="修改"
+                    
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/buttonSize" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/loginbtn"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="60dip"
+                android:background="@drawable/button_selector_white"
+                android:text="登录"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/buttonSize" />
+
+            <Button
+                android:id="@+id/outloginbtn"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/button_selector_white"
+                android:text="退出系统"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/buttonSize" />
+
+            <Button
+                android:id="@+id/updateAppbtn"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/button_selector_white"
+                android:text="版本更新"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/buttonSize" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

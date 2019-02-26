@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:background="@color/gray_white"
+    android:orientation="vertical" >
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/top_bg" >
+
+        <ImageButton
+            android:id="@+id/btnback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="0dp"
+            android:background="@drawable/button_selector_back"
+            android:contentDescription="@null" />
+
+        <View
+            android:id="@+id/vline"
+            android:layout_width="1dip"
+            android:layout_height="fill_parent"
+            android:layout_toRightOf="@+id/btnback"
+            android:background="@drawable/line" />
+
+        <TextView
+            android:id="@+id/top_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:text="用户管理"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+    </RelativeLayout>
+<ScrollView  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_white" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+ 
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dip"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <RelativeLayout
+            android:id="@+id/layout01"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip" >
+
+            <EditText
+                android:id="@+id/userName"
+                android:layout_width="fill_parent"
+               android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="@string/userName"
+                android:inputType="text"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:paddingBottom="10dip"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" />
+
+            <ImageButton
+                android:id="@+id/clearName"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dip"
+                 android:layout_marginTop="10dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout02"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip" >
+
+           <!--   <EditText
+                android:id="@+id/userPwd"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:hint="@string/userPwd"
+               android:inputType="text"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:paddingBottom="10dip"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" >
+            </EditText>-->
+  <EditText
+                android:id="@+id/userPwd"
+                android:layout_width="fill_parent"
+                 android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="@string/userPwd" 
+                android:singleLine="true"
+                android:maxLength="20"
+                android:paddingBottom="10dip"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" >
+            </EditText>
+            <ImageButton
+                android:id="@+id/clearPwd"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dip"
+                 android:layout_marginTop="10dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout03"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip" >
+
+            <EditText
+                android:id="@+id/userPwd2"
+                android:layout_width="fill_parent"
+               android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="@string/firm_pwd"
+               
+                android:paddingBottom="10dip"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" >
+            </EditText>
+
+            <ImageButton
+                android:id="@+id/clearPwd2"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dip"
+                 android:layout_marginTop="10dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout04"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip" >
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="邮箱"
+                android:inputType="textEmailAddress"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:paddingBottom="10dip"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" >
+            </EditText>
+            
+         
+
+            <ImageButton
+                android:id="@+id/clearEmail"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dip"
+                 android:layout_marginTop="10dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+         <RelativeLayout
+            android:id="@+id/layout09"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip" >
+
+            <EditText
+                android:id="@+id/tel"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="手机号"
+                android:inputType="phone"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:paddingBottom="10dip"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" >
+            </EditText>
+            
+         
+
+            <ImageButton
+                android:id="@+id/cleartel"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dip"
+                 android:layout_marginTop="10dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="invisible" />
+        </RelativeLayout>
+          <RelativeLayout
+            android:id="@+id/layout06"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip" >
+   <Spinner
+            android:id="@+id/userType"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+             
+            android:padding="14dp" 
+             android:textColor="@color/gray"
+            android:textSize="@dimen/spinnerSize"/>
+    </RelativeLayout>
+    
+        <LinearLayout
+            android:id="@+id/layout05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/upload_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 />
+
+           <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="允许上传数据"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/checkboxSize" />
+        </LinearLayout>
+          <LinearLayout
+            android:id="@+id/layout07"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/download_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 />
+
+           <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="允许查看数据"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/checkboxSize" />
+        </LinearLayout>
+         <LinearLayout
+            android:id="@+id/layout08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/app_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 />
+
+           <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="允许审批操作"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/checkboxSize" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btnLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="10dip"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/registerBtn"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="8dip"
+                android:background="@drawable/button_selector_yellow"
+                android:text="完成"
+                android:textColor="@color/white"
+                android:textSize="@dimen/buttonSize" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
+</LinearLayout>

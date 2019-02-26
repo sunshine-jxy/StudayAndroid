@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ab.view.pullview.AbPullToRefreshView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mPullRefreshView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/loginBG">
+     <RelativeLayout
+         android:layout_width="fill_parent"
+         android:layout_height="45dp"
+         android:background="@drawable/top_bg" >
+         
+         
+         <ImageButton
+            android:id="@+id/btnback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="0dp"
+            android:background="@drawable/button_selector_back"
+            android:contentDescription="@null" />
+
+        <View android:id="@+id/vline"
+            android:layout_width="1dip"
+            android:layout_height="fill_parent"
+            android:background="@drawable/line"
+            android:layout_toRightOf="@+id/btnback"/>
+        <TextView
+            android:id="@+id/top_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:text="用户信息"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+
+        
+    </RelativeLayout>
+     <RelativeLayout
+            android:id="@+id/layout01"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip" 
+            >
+<!--加上以下两个属性会显示出错
+android:focusable="true"     
+			android:focusableInTouchMode="true"  
+ -->
+            <EditText
+                android:id="@+id/searchName"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                     android:padding="7dp"
+                     android:background="@drawable/bg_edittext"
+                android:gravity="center_vertical"
+                android:hint="用户名/手机号"
+                android:inputType="text" 
+                android:paddingBottom="10dip"
+                android:singleLine="true"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/edittextSize" />
+
+            <ImageButton
+                android:id="@+id/clearsearchName"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:layout_marginTop="10dip"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="50dip"
+                android:background="@drawable/clear_icon"
+                android:visibility="gone" />
+            <Button
+                  android:id="@+id/btn_search"
+                  android:layout_marginTop="6dip"
+                  android:layout_width="40dip"
+                  android:layout_height="40dip"
+                  android:layout_alignParentRight="true"
+                  android:layout_alignParentTop="true"
+                   android:background="@drawable/ic_menu_search_n"
+                  android:textSize="@dimen/buttonSize" />
+        </RelativeLayout>
+         
+     
+<ImageView 
+    android:id="@+id/imageviewLine"
+    android:layout_width="fill_parent"
+    android:layout_height="2dip"
+    android:background="@color/white"/>
+    <ListView
+        android:id="@+id/mListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/list_divider"
+        android:dividerHeight="1dip"
+        android:paddingBottom="20dip" />
+<TextView android:id="@+id/tvmore"
+    android:layout_width="fill_parent"
+    android:layout_height="20dip"
+    android:text=""/>
+</com.ab.view.pullview.AbPullToRefreshView>
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<com.xuexiang.viewpager.AbPullToRefreshView 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mPullRefreshView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/green">
+
+    <ListView
+        android:id="@+id/mListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/list_divider"
+        android:dividerHeight="1dip" />
+    
+</com.xuexiang.viewpager.AbPullToRefreshView>  -->

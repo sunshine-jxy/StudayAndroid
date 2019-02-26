@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_circular.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_back.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_back.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_left.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_left.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_circular.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_gray.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_gray.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_right.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_right.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_green.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_green.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_yellow.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_menu.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_yellow.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_yellow.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue_light.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue_light.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_back.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_back.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_back.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_green.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_green.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_menu.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_menu.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_green.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_green.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_circular.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_white.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_white.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_gray.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_gray.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_icon.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\clear_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue_light.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_right.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_right.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue_light.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_white.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_white.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_white.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_white.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_menu.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_icon.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\clear_icon.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_circular.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_back.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_back.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_right.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_icon.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\clear_icon.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue_light.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_gray.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_gray.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_gray.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_gray.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_white.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_white.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_left.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_left.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_left.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_left.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_green.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_green.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_menu.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_menu.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_left.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_left.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_yellow.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_yellow.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_icon.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\clear_icon.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_yellow.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\button_selector_yellow.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_right.xml",
+        "source": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_right.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_blue.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\button_selector_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    }
+]

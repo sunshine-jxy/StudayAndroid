@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+<!--  android:background="@color/loginBG"  -->
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="40dp"
+        android:layout_height="fill_parent"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:orientation="vertical"  >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:gravity="center">
+     <TextView
+            android:id="@+id/tv_un"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="当前管理用户"
+            android:textColor="@color/white"
+            android:textSize="@dimen/menu_itemSize" 
+            />
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="就就急急急 "
+            android:textColor="@color/new_txtBG"
+            android:textSize="@dimen/menu_itemSize" 
+            />
+
+</LinearLayout>
+        <TextView
+            android:id="@+id/tv_dengji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="等级"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

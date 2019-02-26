@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xuexiang.viewpager"
+    android:versionCode="1"
+    android:versionName="1.1" >
+    <!--
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    -->
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 拨打电话权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 发送短信权限 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 从SDCard读取数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 百度地图应用权限 -->
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" >
+    </uses-permission>
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+    </uses-permission>
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" >
+    </uses-permission>
+    <!-- 允许应用读取低级别的系统日志文件 -->
+    <uses-permission android:name="android.permission.READ_LOGS" >
+    </uses-permission>
+
+    <application
+        android:name="com.xuexiang.viewpager.fragment.MapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/shucai"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name="com.xuexiang.viewpager.WelcomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.xuexiang.viewpager.fragment.MainFragmentPagerActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.xuexiang.viewpager.fragment.SettingActivity" />
+        <activity android:name="com.xuexiang.viewpager.fragment.UserInfo" />
+        <activity android:name="com.xuexiang.viewpager.fragment.Anniudianji" />
+        <activity android:name="com.xuexiang.viewpager.fragment.LoginActivity" />
+        <activity android:name="com.xuexiang.viewpager.fragment.RegisterActivity" />
+        <activity android:name="com.xuexiang.viewpager.fragment.DataInfo" />
+
+        <!-- 图片 -->
+        <activity android:name="com.king.photo.activity.MainActivity" />
+        <activity android:name="com.king.photo.activity.ImageGridActivity" >
+        </activity>
+        <activity android:name="com.king.photo.activity.TestPicActivity" />
+        <activity android:name="com.king.photo.activity.PhotoActivity" />
+        <activity android:name="com.king.photo.activity.AlbumActivity" >
+        </activity>
+        <activity android:name="com.king.photo.activity.ImageFile" >
+        </activity>
+        <activity android:name="com.king.photo.activity.ShowAllPhoto" >
+        </activity>
+        <activity android:name="com.king.photo.activity.GalleryActivity" >
+        </activity>
+
+        <!-- 视频 -->
+        <activity android:name="com.xuexiang.video.activity.ActivityVideo" />
+        <activity android:name="com.xuexiang.video.activity.VideoAlbumActivity" />
+        <!-- 文本 -->
+        <activity android:name="com.xuexiang.viewpager.fragment.ActivityTextContent" />
+        <!-- 数据查询 -->
+        <activity android:name="com.xuexiang.viewpager.fragment.Activity_DataInfoSearch" />
+        <activity android:name="com.xuexiang.viewpager.fragment.Activity_DataInfoDetail" />
+        <activity android:name="com.xuexiang.viewpager.fragment.Activity_DataInfoDetailShow" />
+        <activity android:name="com.xuexiang.viewpager.fragment.Activity_DataInfoDetailShowImage" />
+        <!-- 数据上报 -->
+        <activity android:name="com.xuexiang.viewpager.fragment.Activity_DataUpload" />
+        <!-- 远程指挥 -->
+        <!-- 办公事务 -->
+        <!-- 地图部分 -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="QlNKBW1dP6iWxbOw2SYuSwqf" />
+        <!-- 数据分析 -->
+        <activity android:name="com.xuexiang.viewpager.fragment.XYBarChartActivity" />
+        <activity android:name="com.xuexiang.viewpager.fragment.Main_Download" />
+    </application>
+
+</manifest>

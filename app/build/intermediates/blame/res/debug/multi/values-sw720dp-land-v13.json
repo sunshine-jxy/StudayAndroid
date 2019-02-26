@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "E:\\new gradute\\StudayAndroid\\StudayAndroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "I:\\2018\\Android\\Android_StudayShared\\StudayAndroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\userl\\StudioProjects\\yidongcaijiAndroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "I:\\2018\\Android\\Android_StudayShared\\yidongcaijiAndroid\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]
